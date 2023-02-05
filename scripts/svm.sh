@@ -54,12 +54,12 @@ create() {
     echo "${DIR} already exists, updating"
 
     cp -r ${SVM_INSTALL_DIR}/skel/* ${DIR}
-    sed -i "s|github.com/openware/sonic/skel|${GITPATH}|g" ${DIR}/**/*.go ${DIR}/go.mod
+    sed -i "s|github.com/ohlcware/sonic/skel|${GITPATH}|g" ${DIR}/**/*.go ${DIR}/go.mod
   else
     echo "=> Creating ${DIR}"
 
     cp -r ${SVM_INSTALL_DIR}/skel ${DIR}
-    sed -i "s|github.com/openware/sonic/skel|${GITPATH}|g" ${DIR}/**/*.go ${DIR}/go.mod
+    sed -i "s|github.com/ohlcware/sonic/skel|${GITPATH}|g" ${DIR}/**/*.go ${DIR}/go.mod
 
     git init -q ${DIR}
     cd ${DIR}
