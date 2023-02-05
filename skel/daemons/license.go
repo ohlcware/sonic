@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	sonic "github.com/openware/pkg/sonic/config"
+	sonic "github.com/ohlcware/pkg/sonic/config"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -14,7 +14,7 @@ import (
 	"time"
 
 	jwtgo "github.com/dgrijalva/jwt-go"
-	"github.com/openware/kaigara/pkg/vault"
+	"github.com/ohlcware/kaigara/pkg/vault"
 )
 
 // LicenseResponse to store response from api

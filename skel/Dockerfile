@@ -16,7 +16,7 @@ RUN make all
 
 ARG KAIGARA_VERSION=0.1.24
 # Install Kaigara
-RUN curl -Lo /usr/bin/kaigara  https://github.com/openware/kaigara/releases/download/${KAIGARA_VERSION}/kaigara \
+RUN curl -Lo /usr/bin/kaigara  https://github.com/ohlcware/kaigara/releases/download/${KAIGARA_VERSION}/kaigara \
   && chmod +x /usr/bin/kaigara
 
 FROM node:15.5.0 AS client-builder

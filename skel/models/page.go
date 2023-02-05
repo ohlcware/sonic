@@ -2,10 +2,10 @@ package models
 
 import (
 	"errors"
-	"github.com/openware/pkg/sonic/models"
+	"github.com/ohlcware/pkg/sonic/models"
 	"log"
 
-	"github.com/openware/pkg/database"
+	"github.com/ohlcware/pkg/database"
 	"gopkg.in/yaml.v2"
 	"gorm.io/gorm"
 )

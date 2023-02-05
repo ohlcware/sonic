@@ -1,6 +1,6 @@
 # Go-Gin web application
 
-This application was generated with [sonic](https://github.com/openware/sonic)
+This application was generated with [sonic](https://github.com/ohlcware/sonic)
 
 ## Prerequisites
 

@@ -1,13 +1,13 @@
 package daemons
 
 import (
-	"github.com/openware/pkg/sonic/config"
+	"github.com/ohlcware/pkg/sonic/config"
 	"log"
 	"os"
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/openware/pkg/ika"
+	"github.com/ohlcware/pkg/ika"
 )
 
 const (

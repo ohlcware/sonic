@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/openware/pkg/mngapi/peatio"
+	"github.com/ohlcware/pkg/mngapi/peatio"
 	"github.com/stretchr/testify/require"
 	"gotest.tools/assert"
 )

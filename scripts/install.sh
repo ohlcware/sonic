@@ -60,7 +60,7 @@ svm_clone() {
     git pull origin master
   else
     echo "=> Cloning svm as script to '${INSTALL_DIR}'"
-    git clone --quiet https://github.com/openware/sonic.git ${INSTALL_DIR}
+    git clone --quiet https://github.com/ohlcware/sonic.git ${INSTALL_DIR}
   fi
 }
 

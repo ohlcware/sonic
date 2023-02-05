@@ -1,15 +1,15 @@
 package main
 
 import (
-	"github.com/openware/pkg/ika"
-	"github.com/openware/pkg/sonic/config"
-	"github.com/openware/pkg/sonic/database"
+	"github.com/ohlcware/pkg/ika"
+	"github.com/ohlcware/pkg/sonic/config"
+	"github.com/ohlcware/pkg/sonic/database"
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/openware/pkg/kli"
-	"github.com/openware/sonic/skel/handlers"
-	"github.com/openware/sonic/skel/models"
+	"github.com/ohlcware/pkg/kli"
+	"github.com/ohlcware/sonic/skel/handlers"
+	"github.com/ohlcware/sonic/skel/models"
 )
 
 // Version of the application displayed by the cli and the version endpoint

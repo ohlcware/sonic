@@ -14,9 +14,9 @@ import (
 
 	funk "github.com/thoas/go-funk"
 
-	"github.com/openware/kaigara/pkg/vault"
-	"github.com/openware/pkg/mngapi"
-	"github.com/openware/pkg/mngapi/peatio"
+	"github.com/ohlcware/kaigara/pkg/vault"
+	"github.com/ohlcware/pkg/mngapi"
+	"github.com/ohlcware/pkg/mngapi/peatio"
 )
 
 // Define response data
