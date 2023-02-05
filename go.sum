@@ -125,6 +125,8 @@ github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
+github.com/ohlcware/pkg v0.0.4 h1:ZD/Vi3Y96oP+00yfwMXhMliSx1/HJetZQLRQ4TDkpd8=
+github.com/ohlcware/pkg v0.0.4/go.mod h1:0I7vL6iHiYQVntrGQz1rHvC1Th66xlOT4gaTYJQud2Q=
 github.com/openware/pkg v0.0.2 h1:NOd+WxQLYiKrbF3CoqRoy4txth5YO6hv2PMhM6V9sPg=
 github.com/openware/pkg v0.0.2/go.mod h1:vb8+p8djS2vIZ5nyX2TjGq89vVZFkCEOCD75Bdxq1tQ=
 github.com/openware/pkg/ika v0.1.1 h1:Ka6Aue/vwLywpuMWzVhn7GJikuSmz7l/QTR5pRhouRE=
