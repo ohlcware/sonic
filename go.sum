@@ -127,11 +127,6 @@ github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9G
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
 github.com/ohlcware/pkg v0.0.4 h1:ZD/Vi3Y96oP+00yfwMXhMliSx1/HJetZQLRQ4TDkpd8=
 github.com/ohlcware/pkg v0.0.4/go.mod h1:0I7vL6iHiYQVntrGQz1rHvC1Th66xlOT4gaTYJQud2Q=
-github.com/openware/pkg v0.0.2 h1:NOd+WxQLYiKrbF3CoqRoy4txth5YO6hv2PMhM6V9sPg=
-github.com/openware/pkg v0.0.2/go.mod h1:vb8+p8djS2vIZ5nyX2TjGq89vVZFkCEOCD75Bdxq1tQ=
-github.com/openware/pkg/ika v0.1.1 h1:Ka6Aue/vwLywpuMWzVhn7GJikuSmz7l/QTR5pRhouRE=
-github.com/openware/pkg/mngapi v0.1.1 h1:vhUrdhkK7pgwDmqIZemh3FSUwKtAPd6sC/yaF+d28mI=
-github.com/openware/pkg/mngapi v0.1.1/go.mod h1:vP4cwz98EAwWzJaHzs6utByIs9HaKJezA89V/Iggl6M=
 github.com/pelletier/go-toml/v2 v2.0.1 h1:8e3L2cCQzLFi2CR4g7vGFuFxX7Jl1kKX8gW+iV0GUKU=
 github.com/pelletier/go-toml/v2 v2.0.1/go.mod h1:r9LEWfGN8R5k0VXJ+0BkIe7MYkRdwZOjgMj2KwnJFUo=
 github.com/pkg/diff v0.0.0-20210226163009-20ebb0f2a09e/go.mod h1:pJLUxLENpZxwdsKMEsNbx1VGcRFpLqf3715MtcvvzbA=
